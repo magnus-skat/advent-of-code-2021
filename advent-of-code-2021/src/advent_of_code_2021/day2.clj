@@ -58,8 +58,7 @@
         _ (map sf problem)
         ]
     )
-  (* @depth @position)
-  )
+  (* @depth @position))
 
 
 
